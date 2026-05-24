@@ -6,7 +6,7 @@ An AI-powered web application built with **Streamlit** and **Scikit-Learn** that
 ---
 
 ## 🚀 Live Demo
-Deploy your application to Streamlit Community Cloud or Hugging Face Spaces and paste your live link here:
+ Streamlit Community Cloud, live link here:
 👉 [https://ai-perfume-assistant-2h83ngsdyaefcgxbq6wueq.streamlit.app/]
 
 ---
